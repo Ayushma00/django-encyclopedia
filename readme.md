@@ -1,6 +1,9 @@
 #  Project 1
 
-# Web Programming with Python and JavaScript
+# Web Programming with Django
+# View of site------
+
+https://drive.google.com/drive/u/0/my-drive
 
 ## - This website is about the Encylopedia created using django.
 
