@@ -2,8 +2,7 @@
 
 # Web Programming with Django
 # View of site------
-
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/file/d/1uKMqeIOQ56fWGKkjgO_ql5nlx5rNI3uC/view?usp=sharing
 
 ## - This website is about the Encylopedia created using django.
 
