@@ -1,29 +1,32 @@
-#  Project 1
+# Project 1: Encyclopedia Website
 
-# Web Programming with Django
-# View of site------
-https://drive.google.com/file/d/1uKMqeIOQ56fWGKkjgO_ql5nlx5rNI3uC/view?usp=sharing
+## Overview
+This project involves creating an Encyclopedia using Django, a web framework for Python. The website serves as a repository of information, allowing users to create, view, edit, and navigate through different pages.
 
-## - This website is about the Encylopedia created using django.
+### Features
+- **Create Page**: Users can create a new page with a unique title and content.
+- **Random Page**: Generates a random page for users to explore, adding an element of randomness to the browsing experience.
+- **Edit Page**: Allows users to modify the content of existing pages and save the changes.
 
-##create page to create new page of different title
-## random page to generate the random ness in diplaying the page
-## Edit page to edit the content and save in the files.
+## Website Structure
+### Index.html
+- The landing page of the website (index.html) displays all available pages.
+- It serves as the entry point for navigating through the site.
 
-### It represents following type of html.
+### mywords.html
+- Navigates users to the page for creating a new entry.
+- Provides a text area where users can input the title and content for the new page.
+- Alerts users if a page with the same title already exists.
 
-# Index.html
-## - The first page ( index.html).It contains a home page displaying all the files. 
-## - Home page is navigated using this html file.
+### edit.html
+- Enables users to edit the content of an existing page.
 
-# mywords.html
-## - The create new page is navigated using this html file.
-## - It leads to the text area page with title and content box wher we can create new file.
-## - If title is of same type. It pops with message" Page have same title."
+## HTML Representation
+The website uses HTML to represent different pages and functionalities:
 
-# edit.html
-## - It edit the content of page.
+- **Index.html**: Displays the home page with links to all available pages.
+- **mywords.html**: Facilitates the creation of new pages with a title and content area.
+- **edit.html**: Allows users to modify the content of existing pages.
 
-
-
-
+## View Site
+To view the site, please follow this link: [Encyclopedia Website](https://drive.google.com/file/d/1uKMqeIOQ56fWGKkjgO_ql5nlx5rNI3uC/view?usp=sharing)
